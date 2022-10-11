@@ -37,6 +37,11 @@ games are known for their ability to modify behavior based on which system
 it is running on.  If a multiregion game is loaded, it will use the
 region that you have selected, and will not override it.  
 
+Custom Palette Loading:
+
+Release includes Mono, Nostalgia and NTSC palettes.
+Users can add their own .pal files to the palettes folder in Assets\NES\Common.
+
 Overscan:
 
 Checking this box will reduce the visible area of the screen, cutting
@@ -99,7 +104,7 @@ This core is for the [Analogue Pocket](https://www.analogue.co/pocket) via [open
 
 ## Installation
 To play NES on your Pocket follow these instructions. 
-1. Download and install the latest Pocket firmware here https://analogue.link/pocket-firmware
+1. Download and install the latest Pocket firmware here https://www.analogue.co/support/pocket
 2. Unzip the contents onto the root of your Pocket SD Card in the appropriate folders. 
 3. You will need to add a FDS bios to your sd card. Name the FDS bios file "fds.bios" and place it in the assets/nes/common folder.
 4. Place rom files in the assets/nes/common folder.
