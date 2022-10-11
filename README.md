@@ -37,6 +37,11 @@ games are known for their ability to modify behavior based on which system
 it is running on.  If a multiregion game is loaded, it will use the
 region that you have selected, and will not override it.  
 
+Custom Palette Loading:
+
+Release includes Mono, Nostalgia and NTSC palettes.
+Users can add their own .pal files to the palettes folder in Assets\NES\Common.
+
 Overscan:
 
 Checking this box will reduce the visible area of the screen, cutting
