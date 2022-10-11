@@ -104,7 +104,7 @@ This core is for the [Analogue Pocket](https://www.analogue.co/pocket) via [open
 
 ## Installation
 To play NES on your Pocket follow these instructions. 
-1. Download and install the latest Pocket firmware here https://www.analogue.co/support/pocket/firmware/1.1-beta-5
+1. Download and install the latest Pocket firmware here https://www.analogue.co/support/pocket
 2. Unzip the contents onto the root of your Pocket SD Card in the appropriate folders. 
 3. You will need to add a FDS bios to your sd card. Name the FDS bios file "fds.bios" and place it in the assets/nes/common folder.
 4. Place rom files in the assets/nes/common folder.
